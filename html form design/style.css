@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #346beb;
+}
+.main_form_div {
+    width: 60%;
+    height: 750px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: white;
+}
+.form_images img{
+    width: 911px;
+    height: 200px;
+}
+.form_heading{
+    padding: 50px 0px 0px 70px;
+}
+.form_heading h1{
+    font-weight: 700;
+}
+.form_content{
+    padding: 35px 0px 0px 70px ;
+}
+.form_content input{
+    width: 750px ;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    display: block;
+}
+.form_content p{
+    font-weight: 400;
+} 
+.form_date{
+    padding: 35px 0px 0px 70px ;
+    display: inline-block;
+    padding-top: 45px;
+}
+.form_date input{
+    width: 340px ;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    padding-top: 10px;
+}
+.form_date ::placeholder{
+    color: transparent;
+
+}  
+.form_drowpdown{
+    padding: 35px 0px 0px 70px ;
+    display: inline-block;
+    padding-top: 45px;
+
+}
+.form_drowpdown select{
+    width: 340px ;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    padding-top: -10px;
+}
+.form_drowpdown1{
+    padding: 35px 0px 0px 70px ;
+    display: block;
+    padding-top: 45px;
+
+}
+.form_drowpdown1 select{
+    width: 755px ;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    padding-top: -10px;
+}
+.form_registration{
+    padding: 35px 0px 0px 70px ;
+    padding-top: 45px;
+
+}
+.form_registration input{
+    width: 340px ;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    padding-top: -10px;
+}
+.form_btn{
+    padding: 50px 0px 0px 70px ;
+
+}
+.form_btn button{
+    padding: 13px 35px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 15px;
+}
